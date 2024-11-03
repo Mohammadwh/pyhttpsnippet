@@ -13,5 +13,7 @@ print(py.url)
 print(py.method)
 
 ```
-
+```
+pip install pyhttpsnippet
+```
 enjoy it :D
