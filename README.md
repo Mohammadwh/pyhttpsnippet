@@ -1,5 +1,5 @@
 # pyhttpsnippet
-simpel code to convert raw http request to python object.
+simpel lib to convert raw http request to python object.
 
 ``` python
 from pyhttpsnippet import HttpToRequestsConverter
